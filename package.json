@@ -13,7 +13,7 @@
     "grunt": "~0.4.2",
     "grunt-contrib-coffee": "~0.10.0",
     "moment-timezone": "~0.4.0",
-    "request": "~2.33.0",
+    "request": "~2.74.0",
     "underscore": "~1.5.2",
     "xml2js": "~0.4.1"
   },
